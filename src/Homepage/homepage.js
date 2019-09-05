@@ -22,6 +22,7 @@ class Sluth extends React.Component {
         <div id='shrink'>          
               <button id='title' unselectable="on" className='unselectable' >Sloths 4 Lyfe </button>
               <h1>Insert your edits here</h1>
+              <h3>I'm not a businessman, I'M A BUSINESS MAN!</h3>
           </div>
           <div>
             <h2 id="Tots">Insert your edits here</h2>
